@@ -8,6 +8,6 @@ Topics:
 - Data Warehousing and Star Schema
 - Fulltext index
 
-Run it in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/steinbeis-next/dmbd_databases_datawarehouses/main)
+Run it in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/steinbeis-next/dmbd_databases-datawarehouses/main)
 
 Commercial use is not permitted without the explicit permission of the author.

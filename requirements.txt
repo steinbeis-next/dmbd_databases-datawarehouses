@@ -1,3 +1,4 @@
 ipython-sql
 PyMySQL
 SQLAlchemy
+pyarrow

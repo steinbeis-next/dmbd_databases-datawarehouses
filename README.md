@@ -1,7 +1,8 @@
 <img style="float:left;" src="images/snext-logo.png"/> <h1>Introduction to Relational Databases and Data Warehousing</h1>
 
 This repository contains Jupyter notebooks for seminars and e-learning courses of Steinbeis Schools of Next Practices.
-For instructions how to setup your working environment, see above file "SetupEnvironment.ipynb".
+For instructions, how to setup your working environment, see [this document](https://github.com/steinbeis-next/disd_python-datascience-intro/blob/master/SetupEnvironment.ipynb).
+
 
 Topics:
 - Relational Databases and SQL

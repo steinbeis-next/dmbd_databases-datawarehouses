@@ -1,4 +1,4 @@
 ipython-sql
-PyMySQL
+prettytable==3.11.0
 SQLAlchemy
 pyarrow
